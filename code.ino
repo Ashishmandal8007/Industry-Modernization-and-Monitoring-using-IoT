@@ -20,8 +20,8 @@ DallasTemperature sensor(&ourWire);
 
 char auth[] = BLYNK_AUTH_TOKEN;
 
-char ssid[] = "Ashish";  // Enter your WiFi name
-char pass[] = "12345678";  // Enter your WiFi password
+char ssid[] = "*****";  // Enter your WiFi name
+char pass[] = "*****";  // Enter your WiFi password
 
 #define THINGSPEAK_CHANNEL_ID 2473605
 #define THINGSPEAK_API_KEY "9AFVTGX7AJ13YB0A"
@@ -112,7 +112,7 @@ THIS CODE IS FOR REST OF THE THE SENSORS.
 
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "Ashish";
+char ssid[] = "*****";
 char pass[] = "*****";
 
 BlynkTimer timer;
