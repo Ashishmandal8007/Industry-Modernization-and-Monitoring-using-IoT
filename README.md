@@ -46,16 +46,26 @@ This project aims to modernize industry operations by implementing IoT (Internet
    - Ensure ThingSpeak API integration for storing data from ultrasonic and temperature sensors in CSV and Excel formats.
 
 ## Dependencies
-- List any external libraries or software dependencies required for running the project.
-
-## Contributors
-- List contributors or team members who participated in developing the project.
+- Arduino IDE
 
 ## License
-- Specify the project's license.
+-This project is licensed under the MIT License.
 
 ## Acknowledgments
-- Acknowledge any individuals, organizations, or resources that contributed to the project's development.
+We extend our heartfelt gratitude to the following individuals for their invaluable contributions to this project:
 
-## Support
-- Provide contact information for support or inquiries related to the project.
+- **Mentor and Supervisor:**
+  - Dr. Sonal Rattan
+
+- **Team Members:**
+  - Ashish 
+  - Vansh
+  - Kanishka
+  - Komal
+
+
+
+Thank you all for your guidance, support, and dedication throughout the development of this project.
+
+
+
